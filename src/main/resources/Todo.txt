@@ -3,10 +3,8 @@ Todo List:
 ** User : done
 
 
-* set up git for the VCS
+* make hibernate work with H2
 
-
-* set up the H2 DB(h2)
 
 
 * set up the DAO object to access h2
@@ -19,3 +17,20 @@ Todo List:
 
 
 Done list:
+
+
+Done List:
+
+
+
+
+Done list
+
+* set up git for the VCS
+==> it's very easy and just add button
+
+
+* set up the H2 DB(h2)
+==> add the dependency to the maven and then it's ok
+
+
