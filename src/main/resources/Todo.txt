@@ -1,0 +1,21 @@
+Todo List:
+* set up the POJO
+** User : done
+
+
+* set up git for the VCS
+
+
+* set up the H2 DB(h2)
+
+
+* set up the DAO object to access h2
+
+
+* common operations CRUD
+
+
+* use Spring MVC
+
+
+Done list:
