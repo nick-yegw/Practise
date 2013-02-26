@@ -1,6 +1,6 @@
 Todo List:
 * set up the POJO
-** User : done
+** bean.User : done
 
 
 * make hibernate work with H2
